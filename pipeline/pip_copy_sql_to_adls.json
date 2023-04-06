@@ -287,7 +287,7 @@
 			},
 			"table_name_par": {
 				"type": "string",
-				"defaultValue": "AdventureWorks"
+				"defaultValue": "Customer"
 			},
 			"container_par": {
 				"type": "string",
